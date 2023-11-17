@@ -1,4 +1,7 @@
-Check out some of my other work on [Codeberg](https://codeberg.org/AverageHelper), including [Recorded Finance](https://codeberg.org/RecordedFinance/recorded-finance/)
+Check out some of my other work on [Codeberg](https://codeberg.org/AverageHelper), including:
+
+- [Recorded Finance](https://codeberg.org/RecordedFinance/recorded-finance/)
+- [hono-superstruct-validator](https://codeberg.org/AverageHelper/hono-superstruct-validator)
 
 <!--
 **AverageHelper/AverageHelper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
