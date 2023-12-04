@@ -6,4 +6,4 @@ Check out some of my other work on [Codeberg](https://codeberg.org/AverageHelper
 - [node-project-template](https://codeberg.org/AverageHelper/node-project-template)
 - [meta-comments](https://codeberg.org/AverageHelper/meta-comments)
 
-See [other mirror repositories](https://github.com/AverageHelper?tab=repositories&q=topic%3Acodeberg-mirror) here on GitHub.
+See [other mirrored repositories](https://github.com/AverageHelper?tab=repositories&q=topic%3Amirror) here on GitHub.
