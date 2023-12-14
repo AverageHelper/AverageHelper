@@ -2,7 +2,7 @@ Check out some of my other work on other platforms, including:
 
 - [Recorded Finance](https://codeberg.org/RecordedFinance/recorded-finance/)
 - [ip-echo-cloudflare](https://codeberg.org/AverageHelper/ip-echo-cloudflare)
-- [hono-superstruct-validator](https://codeberg.org/AverageHelper/hono-superstruct-validator)
+- [hono-superstruct-validator](https://git.average.name/AverageHelper/hono-superstruct-validator)
 - [node-project-template](https://git.average.name/AverageHelper/node-project-template)
 - [meta-comments](https://git.average.name/AverageHelper/meta-comments)
 
