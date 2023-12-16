@@ -1,3 +1,7 @@
+# I'm leaving GitHub
+
+[Here's why.](https://blog.average.name/leaving-github/)
+
 Check out my work on other platforms, including:
 
 - [Recorded Finance](https://codeberg.org/RecordedFinance/recorded-finance) - An E2EE web app for managing monetary assets.
@@ -6,8 +10,4 @@ Check out my work on other platforms, including:
 - [node-project-template](https://git.average.name/AverageHelper/node-project-template) - Boilerplate for a NodeJS project in strict TypeScript.
 - [meta-comments](https://git.average.name/AverageHelper/meta-comments) - A VS Code extension for highlighting MARK comments, a la Xcode.
 
-See [other mirrored repositories](https://github.com/AverageHelper?tab=repositories&q=topic%3Amirror) here on GitHub.
-
-## I'm moving from GitHub
-
-Will explain why [on my blog](https://blog.average.name) soon-ish. For now, see [git.average.name](https://git.average.name) for my recent work.
+See [other repositories](https://github.com/AverageHelper?tab=repositories&q=topic%3Amirror) that I mirror here on GitHub, and the rest at [git.average.name](https://git.average.name/AverageHelper).
