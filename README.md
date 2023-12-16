@@ -22,6 +22,6 @@ I don't have well-enough informed opinions on "AI" to take issue with GitHub int
 
 Also, despite GitHub's role in popularizing open-source, GitHub's website is not itself open-source. Seems shady, in principle.
 
-Anyway, I'm moving most of my code to [my own Forgejo instance](https://git.average.name). Anyone with an account on GitHub, GitLab, or Codeberg should, in theory, be able to make an account there to contribute to any of my code, if you want. Star, file issues, submit pull requests, whatever! Same as GitHub. Code that already exists here I plan to keep here as read-only code mirrors.
+Anyway, I'm moving most of my code to [my own Forgejo instance](https://git.average.name). Anyone with an account on GitHub, GitLab, or Codeberg should, in theory, be able to make an account there to contribute to any of my code, if you want. Star, file issues, submit pull requests, whatever! Same as GitHub. Code that already exists here I plan to keep here as clearly marked read-only code mirrors.
 
 I just want to write useful software, with the help of anyone who wants to help. I don't need Microsoft's AI toys taking the fun out of it for me.
