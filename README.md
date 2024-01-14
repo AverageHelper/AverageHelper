@@ -1,6 +1,6 @@
 # I'm leaving GitHub
 
-[Here's why.](https://blog.average.name/2023-12-16-leaving-github)
+[Here's why.](https://blog.average.name/2023-12-16-leaving-github) (fixed broken link, lol)
 
 Check out my work on other platforms, including:
 
