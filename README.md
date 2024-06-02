@@ -8,4 +8,4 @@
 - [meta-comments](https://git.average.name/AverageHelper/meta-comments) - A VS Code extension for highlighting MARK comments, a la Xcode.
 - [Other repositories](https://github.com/AverageHelper?tab=repositories&q=topic%3Amirror) that I mirror here on GitHub
 
-Find the rest on [git.average.name](https://git.average.name/AverageHelper).
+Find the rest on [git.avg.name](https://git.average.name/AverageHelper).
